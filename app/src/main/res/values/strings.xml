@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Package</string>
+    <string name="previously">Pre-registered</string>
+    <string name="new_user">New Employee</string>
+    <string name="emp_id">Employee ID</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="error_internet">Error Internet Connection</string>
+    <string name="error_server">Server Error Connection  ! please Contact With Customer Server</string>
+    <string name="alert">Alert</string>
+    <string name="ok_btn">Ok</string>
+    <string name="fill_data">Fill Data</string>
+    <string name="is_notified">is Send Notification</string>
+    <string name="is_track">Is Tracking?</string>
+    <string name="new_sms">You have new message</string>
+</resources>

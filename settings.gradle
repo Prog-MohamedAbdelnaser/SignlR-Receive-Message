@@ -1,1 +1,1 @@
-include ':app', ':signalr-client-sdk-android', ':signalr-client-sdk'
+include ':app', ':signalr-client-sdk'

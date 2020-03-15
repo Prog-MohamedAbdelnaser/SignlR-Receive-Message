@@ -18,6 +18,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:name=".ApplicationClass"
         android:theme="@style/AppTheme">
 
 
@@ -27,8 +28,7 @@
             android:exported="true" >
         </service>
         <activity
-            android:name=".SplashScreen"
-            android:lockTaskMode="if_whitelisted">
+            android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
